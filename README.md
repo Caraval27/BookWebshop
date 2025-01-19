@@ -1,16 +1,26 @@
 # Book Webshop
 
-Lab assignment in the course Distributed Information Systems, taken during my final year of my Bachelor's in Computer Engineering. The assignent consisted of developing a simple webshop, written in Java, HTML, CSS, and using technologies such as Tomcat server, JSP pages and MySQL.
+This lab assignment involved developing a simple webshop application as part of the Distributed Information Systems course, taken during my final year of my Bachelor's in Computer Engineering. The project was implemented using Java, HTML, and CSS, and it utilized the following technologies:
 
+- Tomcat Server: For deploying and running the application.
+- JSP Pages: For dynamic web content generation.
+- MySQL: For managing the backend database.
 
-An overview of the architechtural structure of the application, and relations/connection between the layers. 
+The project focused on applying distributed systems concepts to create a functional, interactive web application.
+
+### The architechtural structure of the application, and relations/connection between the layers
 <img width="1022" alt="Screenshot 2024-12-08 at 02 04 05" src="https://github.com/user-attachments/assets/12b2ce39-1b4c-4ce6-9c7e-23ec16c17b6f">
 
+### Selected screenshots of the running application
 
-Screenshots of the application when running
+#### Home page
+![Home Screen](https://github.com/user-attachments/assets/2617e5fa-3a95-4578-a19a-9c64ceb6dbfe)
 
-1. Start page:
-<img width="1436" alt="Screenshot 2024-10-06 at 21 05 44" src="https://github.com/user-attachments/assets/7adfa35b-d3c8-4fa9-9b0f-07d31bda94a8">
+#### Home page with cart
+![Home Screen With Cart](https://github.com/user-attachments/assets/4afaae55-a092-4180-a0fc-17d38b2ff2be)
 
-2. Inventory/employee view:
-<img width="1122" alt="Screenshot 2024-10-06 at 10 31 10" src="https://github.com/user-attachments/assets/d88e6276-467e-4c43-becf-311ae5c9138c">
+#### Confirm order page 
+![Order page](https://github.com/user-attachments/assets/744e68a8-6722-492f-8d00-91e88e0b83cf)
+
+#### Inventory page
+![Inventory page](https://github.com/user-attachments/assets/c28614f6-8ca3-4a15-bd5e-775d612dcf1a)
